@@ -1,0 +1,10 @@
+version: '1.0'
+
+services:
+  api:
+    container_name: url-shortener-api
+    build: .
+    restart: always
+    ports:
+      - "5000:5000"
+      

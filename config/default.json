@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://urlshortner:urlshortner2022@urlshortner.h59st.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
