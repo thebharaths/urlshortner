@@ -14,9 +14,10 @@ https://github.com/thebharaths/urlshortner.git
 ```
 **Step 2: Get inside the cloned directory**
 Open the terminal
+```
 Execute “docker compose up” to start your application
+```
  
-
 Application server starts running on port 5000 with Mongo DB connection.
 
 **Step 3: Open Postman App to test the RESTful API Service**
@@ -34,12 +35,18 @@ Body:
   
 
 6.	Result:
+7.	
 {
     "urlCode": "jUMAE6rK6",
+    
     "longUrl": "https://www.netflix.com",
+    
     "shortUrl": "http://localhost:5000/jUMAE6rK6",
+    
     "date": "Mon Jan 10 2022 08:29:22 GMT+0000 (Coordinated Universal Time)",
+    
     "_id": "61dbee6298131190a3bfadbc",
+    
     "__v": 0
 }
  
