@@ -35,7 +35,7 @@ Body:
   
 
 6.	Result:
-7.	
+	
 {
     "urlCode": "jUMAE6rK6",
     
