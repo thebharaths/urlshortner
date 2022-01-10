@@ -23,7 +23,7 @@ Application server starts running on port 5000 with Mongo DB connection.
 **Step 3: Open Postman App to test the RESTful API Service**
 1.	Create a new request.
 2.	Choose HTTP Method “POST” 
-3.	Type “http://localhost:5000/”to serve the local host followed by the API end-point “api/url/shorten”
+3.	Type “http://localhost:5000/” to serve the local host followed by the API end-point “api/url/shorten”
  
 4.	Enter the Key as “Content-Type” and Value as “application/json”
 5.	Enter the long URL in the body
@@ -37,7 +37,8 @@ Body:
 6.	Result:
 	
 {
-    "urlCode": "jUMAE6rK6",
+   
+   "urlCode": "jUMAE6rK6",
     
     "longUrl": "https://www.netflix.com",
     
