@@ -29,8 +29,9 @@ Application server starts running on port 5000 with Mongo DB connection.
 ![image](https://user-images.githubusercontent.com/38078316/148823338-964aa0b7-7168-4c22-9912-5c4b6fd6cd39.png)
 
  
-4.	Enter the Key as “Content-Type” and Value as “application/json”
-5.	Enter the long URL in the body
+4.	Enter the Key as “Content-Type” and Value as “application/json” in header.
+5.	Enter the long URL in the body.
+
 Body:
 {
 	"longUrl": "https://www.netflix.com"
@@ -42,6 +43,7 @@ Body:
 6.	Result:
 	
 {
+   
    
    "urlCode": "jUMAE6rK6",
     
