@@ -13,6 +13,7 @@ Step 1: Clone the repo**
 https://github.com/thebharaths/urlshortner.git
 ```
 **Step 2: Get inside the cloned directory**
+```
 Open the terminal
 ```
 Execute “docker compose up” to start your application
@@ -44,9 +45,9 @@ Body:
 	
 {
    
-   
-   "urlCode": "jUMAE6rK6",
     
+    "urlCode": "jUMAE6rK6",
+     
     "longUrl": "https://www.netflix.com",
     
     "shortUrl": "http://localhost:5000/jUMAE6rK6",
