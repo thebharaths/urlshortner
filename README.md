@@ -17,6 +17,8 @@ https://github.com/thebharaths/urlshortner.git
 	Open the terminal
 ```
 Execute “docker compose up” to start your application
+Note: docker compose up v3.3
+      docker compose up <v3.3
 ```
 ![image](https://user-images.githubusercontent.com/38078316/148823301-2ce696af-3ee6-408e-85d6-137a60d21707.png)
  
@@ -31,6 +33,10 @@ Application server starts running on port 5000 with Mongo DB connection.
 
  
 4.	Enter the Key as “Content-Type” and Value as “application/json” in header.
+
+![Postman](https://user-images.githubusercontent.com/38078316/149092224-d52694b9-c5fd-49ce-8b3d-a2b312968865.jpg)
+)
+
 5.	Enter the long URL in the body.
 
 Body:
