@@ -7,14 +7,14 @@ The application is production ready and can be used behind a Nginx reverse proxy
 -----
 
 #### To start setting up the project
-**
-Step 1: Clone the repo**
+
+**Step 1: Clone the repo**
 ```bash
 https://github.com/thebharaths/urlshortner.git
 ```
 **Step 2: Get inside the cloned directory**
 
-**Open the terminal**
+	**Open the terminal**
 ```
 Execute “docker compose up” to start your application
 ```
