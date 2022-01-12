@@ -13,8 +13,8 @@ Step 1: Clone the repo**
 https://github.com/thebharaths/urlshortner.git
 ```
 **Step 2: Get inside the cloned directory**
-```
-Open the terminal
+
+**Open the terminal**
 ```
 Execute “docker compose up” to start your application
 ```
